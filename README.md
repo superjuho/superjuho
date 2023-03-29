@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @superjuho
-- 👀 I’m interested in VR development
-- 🌱 I’m currently learning backend workflow with Nest.js and Prisma
-- 💞️ I’m looking to collaborate on Virtual Reality experiences
+- 👀 Interested about Metaverse development
+- 🌱 I’m currently learning about lead administrator workflow
+- 💞️ I’m looking to collaborate on Virtual Reality multiplayer experiences
 - 📫 Send me an email to juho.puurune@gmail.com
 
 <!---
