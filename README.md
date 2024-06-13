@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @superjuho
-- 👀 Interested about Metaverse development
-- 🌱 I’m currently learning about lead administrator workflow
-- 💞️ I’m looking to collaborate on Virtual Reality multiplayer experiences
-- 📫 Send me an email to juho.puurunen@helsinkixrcenter.com
+🌐 Senior Git user expanding the metaverse.
+🚀 Passionate about code reviews and quality assurance.
+👥 Leading team growth and success with hands-on management.
+🔍 Focused on innovative solutions and collaborative progress.
+💡 Open to exploring new dimensions in virtual world development.
 
 <!---
 superjuho/superjuho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
