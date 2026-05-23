@@ -59,8 +59,4 @@ Infrastructure → Git / Linux / CI/CD
 [WARN] PR REVIEW MAY CAUSE EMOTIONAL DAMAGE
 ```
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=superjuho&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="170"/>
-
 </div>
