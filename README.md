@@ -1,13 +1,15 @@
 <div align="center">
 
-# ███████╗██╗   ██╗██████╗ ███████╗██████╗      ██╗██╗   ██╗██╗  ██╗ ██████╗
-# ██╔════╝██║   ██║██╔══██╗██╔════╝██╔══██╗     ██║██║   ██║██║  ██║██╔═══██╗
-# ███████╗██║   ██║██████╔╝█████╗  ██████╔╝     ██║██║   ██║███████║██║   ██║
-# ╚════██║██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗██   ██║██║   ██║██╔══██║██║   ██║
-# ███████║╚██████╔╝██║     ███████╗██║  ██║╚█████╔╝╚██████╔╝██║  ██║╚██████╔╝
-# ╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+# `SUPERJUHO`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FFB3&center=true&vCenter=true&multiline=true&width=1200&height=140&lines=Lead+Developer+%40+Helsinki+XR+Center;XR+Architect+%7C+WebXR+Specialist+%7C+Git+Fanatic;Three.js+is+my+home.;Unity+is+my+weapon.;Bash+is+my+religion." />
+```bash
+[ SYSTEM ONLINE ]
+Lead Developer @ Helsinki XR Center
+XR Architect // WebXR Specialist // Team Lead
+Git Fanatic // Bash Addict // Three.js is my roots
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FFB3&center=true&vCenter=true&multiline=true&width=1200&height=140&lines=Lead+Developer+%40+Helsinki+XR+Center;XR+Architect+%7C+WebXR+Specialist+%7C+Git+Fanatic;Three.js+is+my+roots.;Unity+is+my+weapon.;Bash+is+my+religion." />
 
 <br/>
 
@@ -54,17 +56,20 @@
 
 ---
 
-# `git log --oneline`
+# `git status`
 
 ```diff
 + Clean git history matters.
-+ Good branching strategy matters.
++ Good git flow matters.
 + Meaningful commits matter.
 + Rebasing matters.
 + Squashing garbage commits matters.
++ Long-lived branches are dangerous.
++ Main branch must stay sacred.
 
 - "final_final_REAL_v2"
 - force push to main
+- mystery commits
 ```
 
 ```bash
@@ -81,6 +86,7 @@ perf(threejs): optimize draw calls for Quest rendering
 
 ```yaml
 status: elite
+
 specialization:
   - XR systems
   - VR interaction
@@ -110,7 +116,8 @@ specialization:
 ## `Three.js`
 
 ```yaml
-relationship_status: emotionally attached
+status: home_territory
+description: "Three.js is my roots."
 ```
 
 ---
@@ -118,7 +125,7 @@ relationship_status: emotionally attached
 ## `Unreal Engine`
 
 ```yaml
-status: dangerous enough
+status: dangerous_enough
 ```
 
 ---
@@ -171,7 +178,7 @@ const juho = {
   bash: "weaponized",
   unity: "elite",
   webxr: "battle-tested",
-  threejs: "home",
+  threejs: "roots",
   leadership: "earned",
   reviews: "merciless but educational"
 }
@@ -206,6 +213,7 @@ This developer may:
 - refactor your entire project overnight
 - teach your team proper engineering discipline
 - find bugs you didn’t know existed
+- leave code reviews that improve your career
 
 </div>
 
@@ -225,6 +233,20 @@ const currentFocus = [
   "Developer Workflows",
   "Future Interfaces"
 ]
+```
+
+---
+
+# `terminal_feed`
+
+```txt
+[ OK ] XR SYSTEMS ONLINE
+[ OK ] UNITY TOOLCHAIN STABLE
+[ OK ] WEBXR PIPELINE ACTIVE
+[ OK ] THREE.JS ROOT SYSTEM CONNECTED
+[ OK ] GIT HISTORY CLEAN
+[ OK ] BASH AUTOMATION OPERATIONAL
+[WARN] GPU TEMPERATURE RISING
 ```
 
 ---
