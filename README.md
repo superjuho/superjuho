@@ -7,7 +7,7 @@ XR Architect // Lead Developer @ HXRC
 WebXR Specialist // Team Lead
 Git Fanatic // Bash Addict
 Three.js is my roots.
-Unity is my weapon.
+Unity is my tool of choice.
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=900&lines=Building+the+future+in+XR;Good+git+flow+is+not+optional;Three.js+is+my+roots;Code+reviews+with+psychological+damage;Shipping+impossible+things+since+forever" />
