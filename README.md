@@ -1,7 +1,5 @@
 <div align="center">
 
-# `SUPERJUHO`
-
 ```bash
 XR Architect // Lead Developer @ HXRC
 WebXR Specialist // Team Lead
