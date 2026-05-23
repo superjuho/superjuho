@@ -1,29 +1,261 @@
+<div align="center">
+
+# ███████╗██╗   ██╗██████╗ ███████╗██████╗      ██╗██╗   ██╗██╗  ██╗ ██████╗
+# ██╔════╝██║   ██║██╔══██╗██╔════╝██╔══██╗     ██║██║   ██║██║  ██║██╔═══██╗
+# ███████╗██║   ██║██████╔╝█████╗  ██████╔╝     ██║██║   ██║███████║██║   ██║
+# ╚════██║██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗██   ██║██║   ██║██╔══██║██║   ██║
+# ███████║╚██████╔╝██║     ███████╗██║  ██║╚█████╔╝╚██████╔╝██║  ██║╚██████╔╝
+# ╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FFB3&center=true&vCenter=true&multiline=true&width=1200&height=140&lines=Lead+Developer+%40+Helsinki+XR+Center;XR+Architect+%7C+WebXR+Specialist+%7C+Git+Fanatic;Three.js+is+my+home.;Unity+is+my+weapon.;Bash+is+my+religion." />
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-SHIPPING%20IMPOSSIBLE%20THINGS-00ff99?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GIT-HISTORY%20CLEAN-ff0055?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PR%20REVIEWS-TERRIFYING-7700ff?style=for-the-badge"/>
+
+</div>
+
 ---
 
-### 🛡️ ENGINE ROOM STATUS
+# `whoami`
 
-* 🚀 **Expanding the Metaverse:** Deploying high-frequency WebXR and spatial computing apps that bridge reality and pure code. 
-* 🔍 **Zero-Compromise QA:** I don't just look at pull requests. I dissect them. If your code breaks architectural patterns, complexity thresholds, or test coverage, the pipeline drops it before I even have to.
-* 👥 **Tactical Team Scaling:** Leading engineering squads with aggressive, hands-on management. I train developers to build for scale, speed, and clean abstraction.
-* 💡 **Future Vectors:** Currently breaking limits in Meta Quest 3 Mixed Reality passthrough, hardware-accelerated physics webs, and optimized network edge delivery.
-
----
-
-### 🚨 INTERVIEWEE READ-ME (CRITICAL RUNTIME WARNING)
-
-If you are scheduled for a technical interview or code review with me, take note of the compiling rules:
-
-1. **Production-Ready Mindset:** I do not care if it "works on your local machine." If it cannot survive under a high-concurrency production load, it is technical debt.
-2. **Git Mastery is Mandatory:** If your commit history is a mess of `fix`, `update`, and `temp`, we are going to have a painful conversation about interactive rebasing before we even write a line of code.
-3. **Bring Architecture, Not Hype:** Be ready to defend every design pattern, dependency package, and memory management choice you made.
+```bash
+> Lead Developer @ Helsinki XR Center
+> XR Engineer
+> WebXR Specialist
+> Team Lead
+> Git Workflow Enthusiast
+> Code Reviewer
+> Bash Script Addict
+> Builder of impossible demos
+```
 
 ---
 
-### 📊 METRICS & REPO ANALYTICS
-Code Quality : [██████████████████████████████] 100% (No Warnings)
-Build Stability: [████████████████████████████░] 99.9% 
-Patience for Bad Code: [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0.0%
+# `cat /etc/superjuho/core.skills`
+
+<div align="center">
+
+| DOMAIN | STACK |
+|:--|:--|
+| XR | Unity / WebXR / Unreal Engine |
+| Web | JavaScript / TypeScript |
+| 3D Web | Three.js |
+| Backend | NestJS / Node.js |
+| Scripting | Bash |
+| Mobile | Flutter |
+| Graphics | GLSL / Shader Systems |
+| AI | Local LLMs / XR AI |
+| Infrastructure | Git / Linux / CI/CD |
+
+</div>
+
 ---
-<p align="center">
-  <sub>"The code speaks for itself. Make sure yours isn't screaming for mercy."</sub>
-</p>
+
+# `git log --oneline`
+
+```diff
++ Clean git history matters.
++ Good branching strategy matters.
++ Meaningful commits matter.
++ Rebasing matters.
++ Squashing garbage commits matters.
+
+- "final_final_REAL_v2"
+- force push to main
+```
+
+```bash
+feat(webxr): implement passthrough interaction pipeline
+fix(unity): eliminate GC spikes in VR interaction loop
+perf(threejs): optimize draw calls for Quest rendering
+```
+
+---
+
+# `skills --verbose`
+
+## `Unity`
+
+```yaml
+status: elite
+specialization:
+  - XR systems
+  - VR interaction
+  - Quest development
+  - Multiplayer
+  - Shader workflows
+  - Performance optimization
+```
+
+---
+
+## `JavaScript`
+
+```yaml
+primary_language: true
+battle_hardened: true
+
+specialization:
+  - WebXR
+  - Realtime rendering
+  - Fullstack systems
+  - Experimental interfaces
+```
+
+---
+
+## `Three.js`
+
+```yaml
+relationship_status: emotionally attached
+```
+
+---
+
+## `Unreal Engine`
+
+```yaml
+status: dangerous enough
+```
+
+---
+
+# `stacktrace`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=unity,unreal,js,ts,nodejs,nestjs,threejs,bash,linux,flutter,docker,git,vscode,cs,cpp,rust" />
+
+</div>
+
+---
+
+# `leadership.log`
+
+```bash
+> Leads developer teams
+> Runs code reviews developers actually learn from
+> Mentors juniors without ego
+> Turns chaos into architecture
+> Solves impossible XR problems
+> Makes deadlines nervous
+```
+
+---
+
+# `review_process.sh`
+
+```bash
+#!/bin/bash
+
+while(reading_pull_request)
+do
+    detect_bad_architecture
+    detect_performance_issues
+    detect_future_regret
+    improve_code_quality
+    improve_team_skills
+done
+```
+
+---
+
+# `npm install @superjuho/brain`
+
+```javascript
+const juho = {
+  git: "obsessive",
+  bash: "weaponized",
+  unity: "elite",
+  webxr: "battle-tested",
+  threejs: "home",
+  leadership: "earned",
+  reviews: "merciless but educational"
+}
+```
+
+---
+
+# `live_feed.log`
+
+```txt
+[HXRC] Building future XR systems...
+[Unity] FPS stable.
+[Three.js] GPU under pressure.
+[WebXR] Browser barely surviving.
+[Git] History remains immaculate.
+[Review] PR rejected respectfully.
+[Bash] Script completed in 0.2s.
+```
+
+---
+
+# `sudo rm -rf bad_code`
+
+<div align="center">
+
+## ⚠ WARNING ⚠
+
+This developer may:
+- rewrite your architecture
+- optimize your rendering pipeline
+- improve your git workflow
+- refactor your entire project overnight
+- teach your team proper engineering discipline
+- find bugs you didn’t know existed
+
+</div>
+
+---
+
+# `current_focus.ts`
+
+```typescript
+const currentFocus = [
+  "XR Systems",
+  "WebXR",
+  "Three.js",
+  "Quest Development",
+  "Offline AI",
+  "Realtime Rendering",
+  "Team Leadership",
+  "Developer Workflows",
+  "Future Interfaces"
+]
+```
+
+---
+
+# `system.status`
+
+<div align="center">
+
+```ascii
+┌──────────────────────────────────────────────┐
+│                                              │
+│   XR ENGINEER // WEBXR SPECIALIST            │
+│   TEAM LEAD // GIT FANATIC                   │
+│                                              │
+│   github.com/superjuho                       │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=superjuho&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=superjuho&theme=radical&hide_border=true&background=0d1117" />
+
+</div>
+
+---
+
+<div align="center">
+
+# `// BUILDING THE FUTURE IN XR`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:7700ff&height=120&section=footer"/>
+
+</div>
